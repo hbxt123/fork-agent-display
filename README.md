@@ -1,6 +1,6 @@
-# Agent 战术大屏 · v10.0
+# Agent 战术大屏 · v1.0
 
-一个纯前端的 **AI 智能体调度可视化大屏**。v10.0 新增原生 WebGL 主题 HQ 智能总部：中央 Chief 总经理办公室与 8 个职能部门组成回字形总部沙盘，默认 31 名成员；点击 Chief 新增任务，点击人事部管理成员，在全景、部门、项目与人员视图中查看协作进度。在同一个 HTML 页面里切换 OPS、SPIDER、NEURAL、FACTORY、NEBULA、FORGE、WORKS、ION、PARK、HQ 十款主题，展示任务流、审核、交付与模拟指标。
+一个纯前端的 **AI 智能体调度可视化大屏**。v1.0 新增原生 WebGL 主题 HQ 智能总部：中央 Chief 总经理办公室与 8 个职能部门组成回字形总部沙盘，默认 31 名成员；点击 Chief 新增任务，点击人事部管理成员，在全景、部门、项目与人员视图中查看协作进度。在同一个 HTML 页面里切换 OPS、SPIDER、NEURAL、FACTORY、NEBULA、FORGE、WORKS、ION、PARK、HQ 十款主题，展示任务流、审核、交付与模拟指标。
 
 单文件，无需构建、无需后端，双击即可打开。自 v5.0 起源码公开，采用 PolyForm Noncommercial License 1.0.0：非商业用途免费，商业用途需授权，详见文末「授权 License」。
 
